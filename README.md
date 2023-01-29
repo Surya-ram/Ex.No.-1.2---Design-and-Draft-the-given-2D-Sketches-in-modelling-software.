@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ ![Ex_1.2 Drawing SURYA](https://user-images.githubusercontent.com/122000311/215312529-4a27f87d-d5e6-4380-b6da-41d994ac9b37.png)
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
